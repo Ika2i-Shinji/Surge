@@ -1,3 +1,7 @@
+/*
+author:ddgksf2013
+ */
+
 let url = $request.url;
 const path1="v1/auth/device";
 const path2="v1/account/details";
